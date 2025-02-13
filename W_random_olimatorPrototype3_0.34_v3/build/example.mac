@@ -1,0 +1,17 @@
+/run/initialize
+/gun/particle gamma
+/gun/energy 10 keV
+
+
+# 角度を設定するコマンド
+/run/setCut 0.01 mm
+/run/setCutForAGivenParticle e- 0.01 mm
+/run/setCutForAGivenParticle gamma 0.01 mm
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+
+/run/beamOn 150000000
+
