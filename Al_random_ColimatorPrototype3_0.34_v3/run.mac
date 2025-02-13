@@ -1,0 +1,20 @@
+# シュート数の設定
+/run/numberOfThreads 8
+
+# ワールドサイズの設定
+#/control/execute init_vis.mac
+
+# 粒子源の設定
+/gun/particle geantino
+/gun/energy 5.9 keV
+/gun/position 0.0 0.0 0.0 mm
+
+# 初期角度の設定（例：Theta = 10度、Phi = 0度）
+#/gun/direction 1 0 0
+
+# シミュレーションの初期化
+/run/initialize
+
+# 実行（例：1000イベントを実行）
+/run/beamOn 1
+
