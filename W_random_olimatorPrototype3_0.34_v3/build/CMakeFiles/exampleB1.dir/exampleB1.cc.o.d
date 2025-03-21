@@ -1,6 +1,6 @@
 CMakeFiles/exampleB1.dir/exampleB1.cc.o: \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/share/asan_ignorelist.txt \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/exampleB1.cc \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/exampleB1.cc \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4RunManager.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/algorithm \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
@@ -724,7 +724,7 @@ CMakeFiles/exampleB1.dir/exampleB1.cc.o: \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4MaterialCutsCouple.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4ProductionCuts.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4MCCIndexConversionTable.hh \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/include/PhysicsList.hh \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/include/PhysicsList.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4EmConfigurator.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4VEmModel.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4VEmFluctuationModel.hh \
@@ -850,15 +850,15 @@ CMakeFiles/exampleB1.dir/exampleB1.cc.o: \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4ToolsSGQtGLES.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4UIExecutive.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4VUIshell.hh \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/include/DetectorConstruction.hh \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/include/DetectorConstruction.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4VUserDetectorConstruction.hh \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/include/ActionInitialization.hh \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/include/ActionInitialization.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4VUserActionInitialization.hh \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/include/PrimaryGeneratorAction.hh \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/include/PrimaryGeneratorAction.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/include/RunAction.hh \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/include/RunAction.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4UserRunAction.hh \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/include/EventAction.hh \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/include/EventAction.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4UserEventAction.hh \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/include/SteppingAction.hh \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/include/MyTrackingAction.hh
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/include/SteppingAction.hh \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/include/MyTrackingAction.hh

@@ -26,7 +26,7 @@ G4VPhysicalVolume* DetectorConstruction::Construct() {
     G4LogicalVolume* logicWorld = new G4LogicalVolume(solidWorld, world_mat, "World");
     G4VPhysicalVolume* physWorld = new G4PVPlacement(nullptr, G4ThreeVector(), logicWorld, "World", nullptr, false, 0);
 
-    G4Material* collimator_mat = nist->FindOrBuildMaterial("G4_W");
+    G4Material* collimator_mat = nist->FindOrBuildMaterial("G4_Cu");
     auto mesh = CADMesh::TessellatedMesh::FromOBJ("./ColimatorPrototype3_0.34_v3.obj");
     mesh->SetScale(10.0);
     mesh->SetOffset(G4ThreeVector(0.0, 2.101, 0.0));

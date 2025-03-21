@@ -1,7 +1,7 @@
 CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o: \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/share/asan_ignorelist.txt \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/src/DetectorConstruction.cc \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/include/DetectorConstruction.hh \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/src/DetectorConstruction.cc \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/include/DetectorConstruction.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4VUserDetectorConstruction.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
@@ -532,7 +532,7 @@ CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o: \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4LogicalVolume.icc \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4PVPlacement.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4SystemOfUnits.hh \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/include/CADMesh.hh \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/include/CADMesh.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4TriangularFacet.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4VFacet.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/windefs.hh \

@@ -1,7 +1,7 @@
 CMakeFiles/exampleB1.dir/src/MyTrackingAction.cc.o: \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/share/asan_ignorelist.txt \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/src/MyTrackingAction.cc \
-  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/basic/W_random_olimatorPrototype3_0.34_v3/include/MyTrackingAction.hh \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/src/MyTrackingAction.cc \
+  /Users/itoyamato/Downloads/software/Geant4/geant4/examples/g4col_sim/W_random_olimatorPrototype3_0.34_v3/include/MyTrackingAction.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4UserTrackingAction.hh \
   /Users/itoyamato/Downloads/software/Geant4/geant4-install/include/Geant4/G4Track.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/cmath \
